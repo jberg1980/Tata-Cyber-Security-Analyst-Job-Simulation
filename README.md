@@ -1,6 +1,6 @@
 # Tata Cyber Security Analyst Job Simulation
 
-This repository documents my experience and deliverables during the **Tata Cyber Security Analyst Job Simulation**, where I gained hands-on exposure to core cybersecurity concepts with a focus on **Identity and Access Management (IAM)**. The simulation provided an opportunity to work on real-world scenarios, enhancing my skills and understanding of cybersecurity best practices.
+This repository documents my experience during the **Tata Cyber Security Analyst Job Simulation**, where I gained hands-on exposure to core cybersecurity concepts with a focus on **Identity and Access Management (IAM)**. The simulation provided an opportunity to work on real-world scenarios, enhancing my skills and understanding of cybersecurity best practices.
 
 🚀 Overview
 
@@ -29,7 +29,7 @@ Key objectives:
 ### 4. **Platform Integration**
 - Integrated IAM with various platforms to provide seamless and secure access.
 - Emphasized compatibility, ease of use, and security during integration.
-
+  
 
 
 💡 Key Learnings
